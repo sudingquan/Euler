@@ -1,1 +1,1 @@
-# Euler
+# Euler Project
