@@ -14,6 +14,5 @@ using namespace std;
 int is_valid(int x) {
     int raw = x, temp = 0;
     while (x) {
-        
     }
 }
