@@ -13,6 +13,7 @@ int main() {
     long long num = N, ans, i = 2;
     while (i * i <= num) {
         if (num % i == 0) ans = i; // ans 记录最大的素因子
+                                   // 用素数筛法去除了i的倍数，所以剩下的都是质数
         while (num % i == 0) num /= i;
         i++;
     }
