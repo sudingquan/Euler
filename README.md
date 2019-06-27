@@ -1,5 +1,4 @@
-# Euler Project
-> 欧拉计划前50题学习记录
+# Euler
 ```
 .
 ├── EP02-1.cpp
@@ -39,7 +38,8 @@
 ├── EP44.cpp
 ├── EP67.cpp
 ├── EP67_input
+├── Euler_note.md
 └── README.md
 
-0 directories, 38 files
+0 directories, 39 files
 ```
