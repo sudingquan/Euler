@@ -14,7 +14,7 @@
 #include <map>
 #include <cmath>
 using namespace std;
-
+#define MAX_N 1000000
 int num[10] = {0, 1, 2, 3 ,4, 5, 6, 7, 8 ,9};
 
 int fac(int x) {
@@ -44,7 +44,7 @@ void g(int x, int y) {
 }
 
 int main () {
-    g(10, 1000000);
+    g(10, MAX_N);
     for (int i = 0; i < 10; i++) {
         cout << num[i];
     }
