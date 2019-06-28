@@ -30,7 +30,9 @@
 ├── EP18_input
 ├── EP24.cpp
 ├── EP25-2.cpp
+├── EP26.cpp
 ├── EP28.cpp
+├── EP29.cpp
 ├── EP30.cpp
 ├── EP31.cpp
 ├── EP32.cpp
@@ -41,5 +43,5 @@
 ├── Euler_note.md
 └── README.md
 
-0 directories, 39 files
+0 directories, 41 files
 ```
