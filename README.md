@@ -37,11 +37,16 @@
 ├── EP31.cpp
 ├── EP32.cpp
 ├── EP38.cpp
+├── EP39.cpp
+├── EP42.cpp
+├── EP42_input
 ├── EP44.cpp
+├── EP46.cpp
+├── EP47.cpp
 ├── EP67.cpp
 ├── EP67_input
 ├── Euler_note.md
 └── README.md
 
-0 directories, 41 files
+0 directories, 46 files
 ```
