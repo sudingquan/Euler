@@ -21,7 +21,7 @@ int prime[MAX_N + 5];
 int main() {
     for (int i = 2; i <= MAX_N; i++) {
         if (is_prime[i] == 0) prime[++prime[0]] = i;
-        for (int j = 1; j <=prime[0]; j++) {
+        for (int j = 1; j <= prime[0]; j++) {
             if (prime[j] * i > MAX_N) break;
             is_prime[prime[j] * i] = 1;
             if (i % prime[j] == 0) break;
